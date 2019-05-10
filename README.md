@@ -18,4 +18,4 @@ If you want only to see the short movie, check this link to my channel: https://
 As I said, it's aaaaaall very crappy, but it was a first attempt on both animation and game programming/design. Soo, yeah, please be gentle
 
 
-Aaaaah! Last thing. I uploaded AAAL the folders because I was lazy and thought "well, who cares, this repo won't be public" ahah lol.
+Aaaaah! Last thing. I uploaded AAALL the folders because I was lazy and thought "well, who cares, this repo won't be public" ahah lol.
